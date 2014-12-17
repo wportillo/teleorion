@@ -1,0 +1,23 @@
+#loading {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	z-index: 1000000;
+ 	display:none;
+        background:url(../imageapi/ajax-loader.gif) no-repeat;
+        width:128px;
+        height:128px;
+        margin-left:-64px;
+        margin-top:-64px;
+}
+#mask{
+    background-color: #000000;
+    display:none;
+    height: 100%;
+    left: 0;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1200;
+}

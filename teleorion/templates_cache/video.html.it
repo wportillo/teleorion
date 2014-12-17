@@ -1,0 +1,17 @@
+a:4:{s:6:"blocks";a:1:{s:10:"__global__";s:488:"<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<script src="http://jwpsrv.com/library/WbLa8vG4EeOgESIAC0MJiQ.js"></script>
+</head>
+<body>
+<div id='playerxINMQjPXKTvY'></div>
+<script type='text/javascript'>
+jwplayer('playerxINMQjPXKTvY').setup({
+file: 'https://www.teleorion.com/video.mp4',
+image: '//www.longtailvideo.com/content/images/jw-player/lWMJeVvV-876.jpg',
+width: '100%',
+aspectratio: '16:9'
+});
+</script>
+</body>
+</html>";}s:9:"variables";a:1:{s:10:"__global__";a:0:{}}s:8:"children";a:1:{s:10:"__global__";a:0:{}}s:9:"functions";a:1:{s:10:"__global__";a:0:{}}}

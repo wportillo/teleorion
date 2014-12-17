@@ -1,0 +1,41 @@
+#slideshowu10168
+{
+	position: relative;
+}
+
+#u10173
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u10176,#u10280,#u10289,#u10298,#u10307,#u10316
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u10176_clip,#u10280_clip,#u10289_clip,#u10298_clip,#u10307_clip,#u10316_clip
+{
+	overflow: hidden;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u10167-54
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
